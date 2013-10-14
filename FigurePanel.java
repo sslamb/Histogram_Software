@@ -1,6 +1,6 @@
 import java.awt.*;
 import javax.swing.JPanel;
-
+//
 public class FigurePanel extends JPanel{
    //Define Constants
    public static final int RECTANGLE = 2;
